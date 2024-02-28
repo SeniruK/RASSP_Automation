@@ -1,0 +1,48 @@
+$mat_filters
+mat_name-Material Name
+prod_form-Form
+temper-Temper
+grade-Grade
+procure_spec-Procurement Spec
+orientation-Orientation
+$crack_cases
+1010-Surface Crack,W-Width,t-thickness
+1020-Embeded Crack,W-Width,t-thickness,t2-Thickness 2
+1030-Open Hole 1 Corner Crack,W-Width,t-thickness,D-Diameter
+1040-Open Hole Mid Crack,W-Width,t-thickness,D-Diameter
+1050-Open Hole 2 Corner Cracks,W-Width,t-thickness,D-Diameter
+1060-Open Hole 1 Corner Crack,W-Width,t-thickness,D-Diameter,B-Edge Distance,lt-LT%
+1080-Generalized Part-Thru Crack,W-Width,t-thickness,D-Diameter,B-Edge Distance
+$gen_crack_text_options
+S0-S0
+S1-S1
+S2-S2
+S3-S3
+crack_sizes-Crack Sizes
+far_field-Far Field
+$gen_crack_combo_list
+K Values
+Betas
+Nasgro
+$program_text_options
+windows_dir-text
+unix_dir-Unix Directory
+unix_username-Unix Username:
+unix_password-Unix Password:
+base_file_name-Base File Name:
+spec_file_name-Spec File Name:
+$program_checkbutton_options
+gen_input-Generate input file
+mod_input-Modify initial crack size(s)
+gen_ksh-Generate Run File
+run_rassp-Run RASSP
+process_output-Process output
+$input_file_text_options
+flaw_sizes_a-Initial Flaw Sizes(a)
+flaw_sizes_c-Inital Flaw Sizes(c)
+a1-Crack Growth Limits(a)
+c1-Crack Growth Limits(c)
+net-Net Ratio
+dls-DLS
+$input_file_checkbutton_options
+a=c-a=c
