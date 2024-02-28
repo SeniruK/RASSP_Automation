@@ -1,0 +1,53 @@
+W?1.35
+t?0.25
+far_field?51.9
+S0?43.38
+S1?0.0
+S2?0.0
+S3?43.12
+S4?0.0
+cc_soln?16
+tc_soln?05
+flaw_sizes_a?.01 .05
+flaw_sizes_c?.01 .05
+a1?
+c1?
+net?1.58
+dls?2.0
+windows_dir?
+unix_dir?Automation/
+unix_username?
+unix_password?
+base_file_name?85-0079_FSFT_04
+spec_file_name?52029A.spec
+D?0.25
+B?0.675
+lt?30
+t2?
+K_ave?0
+K_c?1
+K_at?1
+K_a?0
+Kc?20.0
+K_ave?0
+K_c?1
+K_a?0
+a=c?1
+gen_input?1
+mod_input?1
+gen_ksh?1
+run_rassp?1
+process_output?1
+crack_sizes_k?0.0025 0.005 0.01 0.02 0.03 0.04 0.06 0.08 0.1 0.12 0.14 0.16 0.2 0.25 0.3 0.33                                                                                                                                                                          
+K Values?4667 6048 7408 8904 9677 10321 11677 13095 14457 15519 16489 17139 18699 21936 28786 54718                                                                                                                                                                         
+crack_sizes_beta?0.01 0.02 0.04 0.05 0.06 0.07 0.08 0.1 0.12 0.13 0.15 0.18 0.2 0.24 0.26 0.28 0.3 0.315                                                                                                                                                             
+Betas?2.4463 2.3713 2.0428 1.9932 1.9238 1.7615 1.6412 1.4684 1.3615 0.96 0.9262 0.9083 0.914 1.01 1.1319 1.3124 1.7349 2.9314                                                                                                                                                             
+crack_sizes?0.0025 0.005 0.01 0.02 0.03 0.04 0.05 0.06 0.08 0.1 0.12 0.14 0.16 0.2 0.22 0.26 0.28 0.3 0.35 0.4 0.5 0.6 0.7 0.7 0.8 0.9 1   
+mat_name?Material Name
+prod_form?Form
+temper?Temper
+grade?Grade
+procure_spec?Procurement Spec
+orientation?Orientation
+crack_case?1080 Generalized Part-Thru Crack
+gen_crack_options?Nasgro
